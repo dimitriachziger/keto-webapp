@@ -1,0 +1,11 @@
+
+.ser-input{
+    border-color: transparent;
+    border-bottom-color: #fff;
+    color: #fff;
+}
+.ser-input:focus {
+    border-color: transparent;
+    color: #fff;
+    border-bottom: 1px solid #fff;
+}
